@@ -1,4 +1,10 @@
 # DropIndicator
+
+
+博文链接
+http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650238885&idx=1&sn=8d3471194bb62f8545e2f06bbb207630&chksm=88639ecabf1417dcb409e286257140b1b5e74ef9975ab24db44354726b8b93a981ac9e81bf32&scene=0#rd
+
+
 ## gif
 <img src="https://github.com/Ulez/DropIndicator/blob/master/screenshots/view.gif" width = "300" height = "507.6" align=center />
 
